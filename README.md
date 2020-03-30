@@ -1,4 +1,4 @@
-# What digit you write?
+# What digit?
 
 [![](https://img.shields.io/badge/LICENSE-WTFPL-orange.svg)](./LICENSE)
 
